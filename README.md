@@ -1,4 +1,4 @@
-# Securi y Considera ions for Compression in HTTP/2
+# Security Considerations for Compression in HTTP/2
 
 This is the working area for the individual Internet-Draft, "Securi y Considera ions for Compression in HTTP/2".
 
